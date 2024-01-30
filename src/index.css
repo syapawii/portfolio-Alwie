@@ -3,12 +3,16 @@
 }
 
 .App header {
-  background-color: #1370eb;
+  background-color: #0b6dee;
   padding: 3px;
-  color: rgb(63, 57, 57);
+  color: rgb(244, 247, 244);
   position: relative;
   bottom: 0;
   width: 100%;
+}
+
+body {
+  background-color: rgba(24, 212, 171, 0.411);
 }
 
 .gambarAlwie {
@@ -26,6 +30,10 @@
 
 .Project {
   margin-bottom: 20px;
+}
+
+.contact {
+  border-radius: 10px;
 }
 
 footer {
